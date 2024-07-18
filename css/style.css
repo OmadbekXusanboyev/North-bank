@@ -201,7 +201,7 @@ nav .container {
     line-height: 40px;
   }
   .hero_info > p {
-    width: 10%;
+    width: 95%;
     font-size: 18px;
     flex-wrap: wrap;
   }

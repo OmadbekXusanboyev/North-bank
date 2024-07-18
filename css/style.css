@@ -25,6 +25,10 @@ nav .container {
   justify-content: space-between;
   align-items: center;
   padding: 20px 0px;
+  background: linear-gradient(
+    90deg,
+    rgba(10, 3, 3, 0.1) 0%,
+    rgba(31, 6, 6, 0.1) 100%);
 }
 
 
